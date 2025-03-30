@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abu\\source\\repos\\Holiday Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD2C93B-3A1A-4EFF-8275-4E81FBC8D17F}|Holiday Task\\Holiday Task.csproj|c:\\users\\abu\\source\\repos\\holiday task\\holiday task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD2C93B-3A1A-4EFF-8275-4E81FBC8D17F}|Holiday Task\\Holiday Task.csproj|solutionrelative:holiday task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abu\\source\\repos\\Holiday Task\\Holiday Task\\Program.cs",
+              "RelativeDocumentMoniker": "Holiday Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Abu\\source\\repos\\Holiday Task\\Holiday Task\\Program.cs",
+              "RelativeToolTip": "Holiday Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:44:49.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
